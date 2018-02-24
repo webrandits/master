@@ -354,7 +354,7 @@ form .alert-success {
 
 /* ===================================== BG/PARALLAX IMAGE ===================================== */
 
-.img1, .img2, .img3, .img4, .img5{
+.img1, .img2, .img3, .img4, .img5, .img6{
 	color: #fff;
 	position: relative;
 	overflow: hidden;
@@ -372,10 +372,10 @@ form .alert-success {
 .img3{background-image: url(../img/brag.jpg);}
 .img4{background-image: url(../img/brand.jpg);}
 .img5{background-image: url(../img/gotyou.jpg);}
-
+.img6{background-image: url(../img/bag.jpg);}
 
 @media only screen and (min-width: 1024px){
-.img1, .img2, .img3, .img4, .img5{
+.img1, .img2, .img3, .img4, .img5, .img6{
 		background-attachment: fixed;
 }}
 
